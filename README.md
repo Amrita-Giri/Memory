@@ -1,0 +1,2 @@
+# Memory
+R studio linked 
